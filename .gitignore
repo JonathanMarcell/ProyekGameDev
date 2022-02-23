@@ -60,3 +60,12 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+
+#Downloaded Packs
+Content/WaterMaterials/*
+Content/PN_coniferBushes_I/*
+Content/VHExterior/*
+Content/FreeFurniturePack/*
+
+
